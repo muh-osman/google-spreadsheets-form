@@ -108,7 +108,7 @@ function App() {
           <div className="flip-card-back">
             <h1>Thank You!</h1>
             <h3>Your submission has been sent.</h3>
-            <a href="https://docs.google.com/spreadsheets/d/1Zb017NbM6-fKMuNOz1BU01O0dSP7lV7edyHLIhe-S7I/edit?usp=sharing">see form data</a>
+            <a href="https://docs.google.com/spreadsheets/d/1Zb017NbM6-fKMuNOz1BU01O0dSP7lV7edyHLIhe-S7I/edit?usp=sharing">form data</a>
           </div>
         </div>
       </div>
