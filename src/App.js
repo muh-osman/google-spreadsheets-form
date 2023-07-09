@@ -25,7 +25,7 @@ function App() {
       setValidated(true);
     } else {
       fetch(
-        "https://script.google.com/macros/s/AKfycbwbZJD06dt4ml-zOUgeG39wtlbZPFh6jmowhJNqXVehP0XBcMtOMMdFlf7VrHZujoaqXA/exec",
+        "https://script.google.com/macros/s/AKfycbwFafeIQmVnnDoh1o1MZ2MRA8g1yl3LcN8lh2sHbr1mBi1FMK7u7rXxhI48KNQaU8Rs/exec",
         {
           method: "POST",
           body: formData,
