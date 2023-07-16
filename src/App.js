@@ -24,6 +24,7 @@ function App() {
       e.stopPropagation();
       setValidated(true);
     } else {
+      console.log(formData)
       fetch(
         "https://script.google.com/macros/s/AKfycbwFafeIQmVnnDoh1o1MZ2MRA8g1yl3LcN8lh2sHbr1mBi1FMK7u7rXxhI48KNQaU8Rs/exec",
         {
